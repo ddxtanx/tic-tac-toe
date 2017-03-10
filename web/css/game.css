@@ -1,0 +1,38 @@
+#gameArea {
+    border: solid 10px #F0F;
+    width: 60%;
+    height: 0;
+    padding-bottom: 54%;
+    margin-right: 0px;
+    display: inline-block;
+}
+
+.block {
+    border: solid 10px #000;
+    width: 33.33%;
+    height: 0;
+    padding-bottom: 28.35%;
+    float: right;
+}
+
+#restart {
+    float: right;
+    margin-right: 5em;
+    font-size: 3em;
+}
+
+#messages {
+    float: right;
+    margin-right: 5em;
+    margin-bottom: 0em;
+}
+
+#rightSide {
+    width: 40%;
+    float: right;
+}
+
+.images {
+    max-width: 100%;
+    height: auto;
+}
